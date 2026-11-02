@@ -1,0 +1,20 @@
+FILE SYSTEM REPRESENTATION USING GRAPH
+--------------------------------------
+Enter number of files/folders (1-50): 
+Enter names of files/folders (use one word per name):
+Node 0: Node 1: Node 2: Node 3: Node 4: 
+Enter the adjacency matrix (5 x 5; use 1 for a connection and 0 otherwise):
+
+Enter starting node index (0 to 4): Enter the file/folder name to search: 
+Node List:
+0: Root
+1: Documents
+2: Pictures
+3: Notes.txt
+4: Photo.jpg
+
+BFS Traversal: Root Documents Pictures Notes.txt Photo.jpg
+BFS Result: File/folder "Notes.txt" was found.
+
+DFS Traversal: Root Documents Notes.txt Pictures Photo.jpg
+DFS Result: File/folder "Notes.txt" was found.

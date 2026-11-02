@@ -1,0 +1,13 @@
+5
+Root
+Documents
+Pictures
+Notes.txt
+Photo.jpg
+0 1 1 0 0
+0 0 0 1 0
+0 0 0 0 1
+0 0 0 0 0
+0 0 0 0 0
+0
+Notes.txt
